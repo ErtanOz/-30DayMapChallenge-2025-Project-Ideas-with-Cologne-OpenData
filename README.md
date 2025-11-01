@@ -123,4 +123,4 @@ Hashtags:
 
 ### 🚀 Let's map Cologne — one dataset per day
 
-> _„Stadt verstehen heißt Daten lesen.“_
+🚀 A map a day — decoding Cologne through data
