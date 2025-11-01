@@ -118,7 +118,8 @@ Pull requests and ideas are welcome!
 ---
 
 Hashtags:  
-`#30DayMapChallenge #OpenData #Cologne #GIS #SmartCity #GeoAI #Köln`
+#30DayMapChallenge2025 Hashtag#OpenData Hashtag#GIS Hashtag#Geospatial Hashtag#SmartCity
+Hashtag#Cologne Hashtag#Köln Hashtag#OSM Hashtag#DataVisualization Hashtag#UrbanInnovation Hashtag#StadtKöln Hashtag#geodata Hashtag#CityInnovation Hashtag#SpatialComputing Hashtag#CityAnalytics Hashtag#UrbanData
 
 ---
 
