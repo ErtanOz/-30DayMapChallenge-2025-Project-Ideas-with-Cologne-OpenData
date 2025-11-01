@@ -115,29 +115,11 @@ Pull requests and ideas are welcome!
 
 ---
 
-## 📣 Follow Along
-
-Maps will be posted on:
-
-- GitHub Projects  
-- X / Twitter  
-- Instagram  
-- LinkedIn  
-
 Hashtags:  
 `#30DayMapChallenge #OpenData #Cologne #GIS #SmartCity #GeoAI #Köln`
 
 ---
 
-## 💬 Contact
-
-**Author:**  
-Name: _Your Name_  
-Location: Cologne, Germany  
-Email: your.email@example.com  
-Links: GitHub · LinkedIn · Website  
-
----
 
 ### 🚀 Let's map Cologne — one dataset per day
 
