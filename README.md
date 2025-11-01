@@ -15,6 +15,8 @@ Each challenge entry includes:
 This repository helps anyone — beginners to urban-data experts — build *daily sharable maps*, using **open data, QGIS, OSM, NRW datasets, and lightweight web mapping tools**.
 
 > 💡 Focus: Urban mobility, green spaces, infrastructure, culture, accessibility, and future city scenarios of Cologne — designed to inspire civic-tech & smart-city creativity.
+>
+**Link to list:** https://github.com/ErtanOz/-30DayMapChallenge-2025-Project-Ideas-with-Cologne-OpenData/blob/main/Cologne%20Project%20Ideas%20List%20for%20the%20%2330DayMapChallenge%202025.md
 
 ---
 
