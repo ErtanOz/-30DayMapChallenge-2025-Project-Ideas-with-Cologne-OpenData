@@ -1,0 +1,1 @@
+# -30DayMapChallenge-2025-Project-Ideas-with-Cologne-OpenData
