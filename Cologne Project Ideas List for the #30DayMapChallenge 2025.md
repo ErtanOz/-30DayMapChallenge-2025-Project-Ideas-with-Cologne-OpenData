@@ -160,7 +160,7 @@ Here is a list of 30 project ideas, specifically tailored to Cologne, based on t
 - **Roadmap**: Extract, style as blue gradient.
 - **Purpose**: Raises awareness of water resources.
 - **Tech**: QGIS Raster to Vector;  
-  **Data**: [Water Bodies NRW](https://open.nrw/search?groups=umwelt)
+  **Data**: [Water Bodies NRW]([[https://open.nrw/search?groups=umwelt](https://open.nrw/dataset/7965140a-9569-4ecb-a4a2-a467eba8ec59)]
 
 ## 21. Icons: Symbol Map of Landmarks
 - **Concept**: Points with custom icons (Cathedral, Chocolate Museum).
